@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me? 
-**Discord: Ozzy#4201**
+- 📫 How to reach me? <br>
+**Discord: Ozzy#4201** <br>
 **Telegram: t.me/Ozzy4201**
 
 <h3 align="left">Connect with me:</h3>
