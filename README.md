@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ozzy</h1>
-<h3 align="center">A Python | Web developer from Sweden</h3>
+<h3 align="center">A developer from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzy4201&label=Profile%20views&color=0e75b6&style=flat" alt="ozzy4201" /> </p>
 
-- 🔭 I’m currently working on **a few site templates for discord bots**
+- 🔭 I’m currently working on **a website for a virtual airline**
 
 - 🌱 I’m currently learning **Web Development**
 
