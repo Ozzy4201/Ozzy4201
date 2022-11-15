@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzy4201&label=Profile%20views&color=0e75b6&style=flat" alt="ozzy4201" /> </p>
 
-- 🔭 I’m currently working on **a website for a virtual airline**
+- 🔭 I’m currently working on:
+    * **a website for a virtual airline**
+    * **a personal calendar application for Windows**
+
 
 - 🌱 I’m currently learning **Web Development**
 
